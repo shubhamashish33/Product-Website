@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;700;800&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+.hero {
+  background-image: url(../images/1.png);
+  background-size: cover;
+  height: 400px;
+  background-color: #fef9e5;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.hero-content h1{
+    padding-top: 142px;
+    padding-left: 12px;
+    padding-right: 32px;
+    font-weight: 800;
+}
+.hero-content p{
+    padding-left: 12px;
+}
+.hero-content a{
+    margin-left: 12px;
+}
+.head{
+  font-weight: 600;
+}
+.hero-button{
+  margin-left: 39% !important;
+}
+.hero-col h4{
+  font-weight: 400;
+}
+.hero-col p{
+  font-weight: 200;
+}
+.cover{
+  background-size: cover;
+}
+.newsletter{
+  background-image: url(../images/newsletter.jpg);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  margin-bottom: 12px;
+}
+.newslettercontent{
+  padding-top: 142px;
+  padding-left: 12px;
+
+}
+#emailadress{
+  width: 400px;
+  height: 50px;
+  border-radius: 40px;
+  outline: none;
+  padding: 0 20px;
+  margin: 20px 0 0 0;
+  border: 1px solid #ddd;
+}
+.subs{
+  margin-top: 21px !important;
+  margin-left: 12px !important;
+  padding-top: 10px !important;
+  text-align: center;
+}
+.news{
+  margin-top: 0px !important;
+  padding: 0px !important;
+  margin-bottom: 12px !important;
+}
+.product{
+  margin-bottom: 0px !important;
+}
+.mask{
+  height: 476px !important;
+}
+@media screen and (max-width: 476px) {
+  body{
+    width: 100%;
+    margin: auto;
+  }
+  .hero{
+    height: 600px;
+  }
+  #emailadress
+  {
+    width: 300px;
+  }
+  .mask{
+    height: 476px !important;
+  }
+  .btns{
+    flex-direction: column;
+  }
+  .news{
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    margin-bottom: 12px !important;
+    text-align: center;
+  }
+  .newslettercontent
+  {
+    margin-top: 0px;
+  }
+  .newslettercontent h3{
+    width: 80%;
+    margin: auto;
+    margin-top: -50px;
+    /* padding-top: 0px; */
+  }
+  footer{
+    text-align: center;
+    margin-top: 0px;
+    height: 30px;
+    margin-bottom: 220px;
+    padding-left: 50;
+    transform: translateX(50%)
+    width: max-content;
+  }
+}
