@@ -1,5 +1,5 @@
 # Product-Website
-This is a product website of mask.
+A product based website entirely made with Bootstrap.
 
 ## Website
 ![BTgRdxZmdb](https://user-images.githubusercontent.com/78084828/128723053-1373b3f3-f834-4fe6-8ee9-d4f2dc5523d3.gif)
