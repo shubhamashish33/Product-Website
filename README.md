@@ -1,10 +1,11 @@
 # Product-Website
-A product based website entirely made with Bootstrap.
+A product based website entirely made with Bootstrap. \
+[Visit Now🚀](https://shubhamashish33.github.io/Product-Website/) 
 
 ## Website
 ![BTgRdxZmdb](https://user-images.githubusercontent.com/78084828/128723053-1373b3f3-f834-4fe6-8ee9-d4f2dc5523d3.gif)
 
-[Visit Now🚀](https://shubhamashish33.github.io/Product-Website/) 
+
 
 #### The website has 4 Sub-section
 1. Header where most recent item or offers shows.
